@@ -8,8 +8,8 @@ I’m currently new to this space and actively exploring how digital tools can e
 
 ### Featured Projects
 
-**Situational Awareness LMS**  
-Interactive learning module designed to simulate real-world workplace scenarios and improve hazard recognition.
+**Work At Height Quiz**  
+A scenario-based safety quiz focused on Working at Height (WAH) to reinforce safe decision-making and hazard awareness in high-risk environments.
 
 **STF Kahoot Game**  
 A gamified quiz focused on Slip, Trip, and Fall (STF) awareness to drive engagement and retention.
