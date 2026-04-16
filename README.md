@@ -29,3 +29,4 @@ A visual-based hazard identification game tailored for warehouse environments.
 ---
 
 Feel free to explore the projects below or reach out if you’re interested in collaborating on workplace safety initiatives.
+Also open to any feedback — still learning and improving along the way.
