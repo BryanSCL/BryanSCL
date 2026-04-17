@@ -1,6 +1,6 @@
 ## Hi there
 
-I build digital learning tools and gamified safety experiences for workplace health and safety (WSH) campaigns.
+Interest in building digital learning tools and gamified safety experiences for workplace health and safety (WSH) campaigns.
 
 I’m currently new to this space and actively exploring how digital tools can enhance engagement, learning, and behaviour change in workplace safety.
 
