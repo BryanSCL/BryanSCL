@@ -27,4 +27,5 @@ Bite Right is a fast-paced, interactive game that helps users understand how eve
 ---
 
 Feel free to explore the projects below or reach out if you’re interested in collaborating on workplace safety initiatives.
+
 Always open to any feedback :) 
