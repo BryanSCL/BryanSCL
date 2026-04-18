@@ -7,7 +7,7 @@ Exploring gamified learning tools to enhance awareness, using AI-assisted workfl
 ### Projects
 
 **Height Sense**
-A short game on working at height safety — spot hazards and make safe decisions.
+A short game on working at height safety. Spot hazards and make safe decisions.
 
 **Bite Right**
 A fast-paced game about how food choices affect energy and focus.
