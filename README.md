@@ -1,6 +1,6 @@
 ## About Me 
 
-Exploring gamified learning tools for workplace health and safety (WSH), using AI-assisted workflows.
+Exploring gamified learning tools to enhance awareness, using AI-assisted workflows.
 
 ---
 
