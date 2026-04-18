@@ -1,8 +1,6 @@
 ## About Me 
 
-I build small gamified learning tools focused on workplace health and safety (WSH).
-
-Currently exploring how simple interactive games can improve engagement and learning.
+Exploring gamified learning tools for workplace health and safety (WSH), using AI-assisted workflows.
 
 ---
 
