@@ -1,4 +1,4 @@
-## ## Hi 
+## Hi 
 
 I build small gamified learning tools focused on workplace health and safety (WSH).
 
