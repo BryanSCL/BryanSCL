@@ -6,7 +6,7 @@ Exploring gamified learning tools to enhance awareness, using AI-assisted workfl
 
 ### Project DashBoard
 
-bryandashboard.vercel.app
+[bryandashboard.vercel.app](https://bryandashboard.vercel.app/)
 
 ---
 
